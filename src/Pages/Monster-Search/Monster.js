@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import CardList from "../Components/card-list/CardList";
-import Searchbox from "../Components/searchbox/Searchbox";
+import CardList from "../../Components/card-list/CardList";
+import Searchbox from "../../Components/searchbox/Searchbox";
 import "./MonsterStyle.css";
 
 function Monster() {

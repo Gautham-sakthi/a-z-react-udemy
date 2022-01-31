@@ -1,12 +1,10 @@
 import React from "react";
 import "./App.css";
-import Homepage from "./Components/Cart/Homepage";
-//import Monster from "./Pages/Monster";
+import Homepage from "./Pages/E-commerce/Homepage";
 
 function App() {
   return (
     <div>
-      {/* <Monster /> */}
       <Homepage />
     </div>
   );
